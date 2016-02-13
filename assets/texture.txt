@@ -1,0 +1,168 @@
+﻿@title
+               ,b                 d,      o     ,              ,         
+              B8'B              PB,BB    dB    dB              Bb        
+               B'              ,  P    oodBo8ddBBdddddd   dddddBBBBPP    
+     db,    BB,         Bb    "Bb      ``dB``  dB               Bb  ,o,  
+     BB      BB,       dBP     `BB       dB    dBddddb   dddBBBBBBBPP""  
+    dB'       BB,      BB        BB     ,dBBB  BPB  dP            Bb     
+   dB"         BB     BB         "Bb   BPBB   dB db B      oBBPPPPBBB    
+  dBP           BB   BB           BBb    dB   BP  BB"     dB             
+  ""            "    P             "     dB ,BP ,dB"Bb     Bo,           
+                                        dBB "" BP`   "B     "PPPPPPP     
+@background
+ 
+@cursor
+
+ b
+@won_message
+        dBB                      db.                     oo                                                         BB   ,            o,                                                                            ,       ,BBBb                       ,BBB,       ,          
+        dB8                      BB                     dBB                          ,,oo,,            BBBBBB   BB, B8  BB'           BB                                                                           dB'     dBB"BBB                     dBP'BBb     `BB         
+    ,,,,dBb,oodddBB             dBb,,o   o,             dBP                      oBBBBBBBBBBBb,        BB  dB    P`dBP "P'           dB8    ,,                   dBBP                       BBB                  ,B"      BP'    BB8                  BP     BB      "B,       
+    BBBBBBBPPPPP"""        BBBBBBBBBBP   BBBBBb,   ,,,,,BBddBB8                dBBP' dBB8   "BBb       BB  dB  BBBBBBBBBBBBB    ddddBBBBBBBBBB                   dBBP                       BBB                  B'                                                   `B,      
+        BBP   doo          ``` dB'          "PBP   BBBBBBBP""`                BBP    dBB      BBB      BBBBBB      BP BB        """""BB                          dBBP                       BBB                 BP                          ,,                         dB      
+        BBboddBBBo,           dBP        ,,            dBP       ,,oodd      BB"     BB8       BBb     BB""BB BBBBBBBBBBBBBBB       dBP                          dBB                        BBB                 B                       ,BBBBBBBb                       B      
+      ,dBBBP""BBPBBBB,        BB        dB8            BB     BBBBBBPPP`    dBB      BB        BBB     BB  dB """BB"""""BB"""       BB     ,,,                    BB                        BBB                dB                      dBP     "BB                      BP     
+     dBPBBb  dBP   `BBb      BB'        dB8            BB     ""            BBP     dBB        dBB     BB,,dB  ,BB' BB   BBB,      dBBoBBBBBBBBBB,                BB                        dB8                dB                      BB       BBb                     BP     
+   ,BB  dBB  BB      BBb    dBP         dB8           dBP                   BBb     BB         BBP     BBBBBB BBBdddBBdddddBBP     BBBB"       `BBb               ""                        '"'                 B                     dB8       dB8                     B      
+   BB    BBoBB'      BBP   dBP    ,BBBBBBBb,          BB                    dBB    BBP       ,BBB      BB  dB    PPBBBPPBBB       "BP'           BB                                                             BB                    dBB       BBP                    BP      
+   B8    dBBB        BBP   `"    BB"    dBBBBBb,     BBP                     BBBodBBB      ,BBBP       BB  dB      dBP  dBP                     dBB               dd                        ddd                  Bb                    BBb     dBB                    dB       
+   BB  ,dBBBB      oBBP          BB     BB'  "B'    dBB     dBBBdooooooo      "BBBB"    dBBBBP        dBP  dB     dBB   dBP                 ,,dBBB               dBBP                       BBB                   Bb                    BBBbddBBP                    dB        
+   "BBBBP" "   dBBBBP"           "BBBBBBB"          PB'       '"PBBBBBBB                 BP"          BB  oBB  dBBB"  BBBB             BBBBBBBBP"                                                                  BB,                    `"""`                    ,BP         
+               'P"                  `""                                                                   PP"   P`    '""`                                                                                          '                                               "          
+@lose_message
+        dBB                      db.                     oo                                                  BB       ,                        ,,                ,                                                  ,          
+        dB8                      BB                     dBB                          ,,oo,,                 BBBBBBBBBBBP           bo,         BB               dB"                                                "Bb         
+    ,,,,dBb,oodddBB             dBb,,o   o,             dBP                      oBBBBBBBBBBBb,           ,BB"      BB"           dBB          BB             ,BP                                                    "B,       
+    BBBBBBBPPPPP"""        BBBBBBBBBBP   BBBBBb,   ,,,,,BBddBB8                dBBP' dBB8   "BBb        ,dBBBddddddBBdddddb       dBP          BB             B"                                                      'B       
+        BBP   doo          ``` dB'          "PBP   BBBBBBBP""`                BBP    dBB      BBB     ,BBBBB````````````dBP       BB    oooodddBBBBBBB       BP                                                        BB      
+        BBboddBBBo,           dBP        ,,            dBP       ,,oodd      BB"     BB8       BBb     B" BB,,,,,,,,,,,,dBP       BB    PPPPPPPBBP""`        BP                                                        dB      
+      ,dBBBP""BBPBBBB,        BB        dB8            BB     BBBBBBPPP`    dBB      BB        BBB        BBPPPPPPPPPPPPBBP       BB           BB            B                                                          B      
+     dBPBBb  dBP   `BBb      BB'        dB8            BB     ""            BBP     dBB        dBB        BB,,,,,,,,,,,,dBP       BB           BB            B           ,,,,,,,                      ,,,,,,,,          B      
+   ,BB  dBB  BB      BBb    dBP         dB8           dBP                   BBb     BB         BBP        BBPPPPPPPPPPPPBBP       BB           BB            Bb         dBBBBBBB                      BBBBBBBP         dB      
+   BB    BBoBB'      BBP   dBP    ,BBBBBBBb,          BB                    dBB    BBP       ,BBB         BB            dBP       BB          dBB            dB                                                        BP      
+   B8    dBBB        BBP   `"    BB"    dBBBBBb,     BBP                     BBBodBBB      ,BBBP          BBBBBBBBBBBBBBBBP       BBb         BBP             Bb                                                      dB       
+   BB  ,dBBBB      oBBP          BB     BB'  "B'    dBB     dBBBdooooooo      "BBBB"    dBBBBP            "",dBb    dBBo,         dB8        BBP               BB                                                    dB        
+   "BBBBP" "   dBBBBP"           "BBBBBBB"          PB'       '"PBBBBBBB                 BP"           odBBBBBP`     "PBBBBBB               BBP                 "B,                                                ,BP         
+               'P"                  `""                                                                "PP"               ""P                `                   "                                                  '          
+                                                                                                                                                                                    BBBBBBBBBBBBBB                             
+                                                                                                                                                                                    ``````````````                             
+@trump-1
+ _______
+|A      |
+|       |
+|   *   |
+|       |
+|       |
+|______A|
+@trump-2
+ _______
+|2      |
+|   *   |
+|       |
+|       |
+|   *   |
+|______2|
+@trump-3
+ _______
+|3      |
+|   *   |
+|   *   |
+|       |
+|   *   |
+|______3|
+@trump-4
+ _______
+|4      |
+| *   * |
+|       |
+|       |
+| *   * |
+|______4|
+@trump-5
+ _______
+|5      |
+| *   * |
+|   *   |
+|       |
+| *   * |
+|______5|
+@trump-6
+ _______
+|6      |
+| *   * |
+| *   * |
+|       |
+| *   * |
+|______6|
+@trump-7
+ _______ 
+|7      |
+| *   * |
+|   *   |
+| *   * |
+| *   * |
+|______7|
+@trump-8
+ _______ 
+|8      |
+| *   * |
+| * * * |
+|   *   |
+| *   * |
+|______8|
+@trump-9
+ _______ 
+|9      |
+| *   * |
+| *   * |
+| * * * |
+| *   * |
+|______9|
+@trump-10
+ _______
+|10     |
+| *   * |
+| * * * |
+| * * * |
+| *   * |
+|_____10|
+@trump-11
+ _______ 
+|J      |
+|*( '-')|
+| /==$=||
+||=$==/ |
+|(.-. )*|
+|______J|
+@trump-12
+ _______ 
+|Q      |
+|*( '-')|
+| /==$=||
+||=$==/ |
+|(.-. )*|
+|______Q|
+@trump-13
+ _______ 
+|K      |
+|*( '-')|
+| /==$=||
+||=$==/ |
+|(.-. )*|
+|______K|
+@trump-14
+ _______ 
+|J      |
+|O ^o^ R|
+|K     E|
+|E     K|
+|R ^o^ O|
+|______J|
+@trump-back
+ _______ 
+|       |
+| $|||$ |
+| ||||| |
+| ||||| |
+| $|||$ |
+|_______|
