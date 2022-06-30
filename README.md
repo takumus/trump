@@ -5,7 +5,7 @@
 # trump
 大学１年のころに制作したコマンドプロンプトで動くトランプゲーム。  
 ババ抜きです  
-動画：<https://www.youtube.com/watch?v=XS2PajJHAp0>
+動画：<https://www.nicovideo.jp/watch/sm29664890>
 
 # 説明
 私はflasherなので、表示オブジェクト周りのクラス設計は、  
